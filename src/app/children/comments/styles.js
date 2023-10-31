@@ -27,7 +27,7 @@ export default {
   },
 
   commentSymbol: {
-    color: 'blue',
+    color: '#547ae5',
     cursor: 'pointer'
   },
 
