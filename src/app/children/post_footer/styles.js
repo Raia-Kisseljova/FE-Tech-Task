@@ -12,5 +12,18 @@ export default {
     fontSize: '0.7rem',
     paddingBottom: '4px',
     letterSpacing: '-0.03rem'
+  },
+
+  footerDiv:{
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingRight: '25px'
+  },
+
+  footerText:{
+    display: 'flex',
+    flexDirection: 'column'
   }
+
 }
